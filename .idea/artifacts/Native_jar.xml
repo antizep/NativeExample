@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Native:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Native_jar</output-path>
+    <root id="archive" name="Native.jar">
+      <element id="module-output" name="Native" />
+      <element id="library" level="project" name="bin" />
+    </root>
+  </artifact>
+</component>
